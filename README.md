@@ -1,4 +1,4 @@
-# BreadcrumbsReal-Time-Object-Detection-and-Object-Tracking-with-Fire-Fighting-System #
+# Real-Time-Object-Detection-and-Object-Tracking-with-Fire-Fighting-System #
 
 
 ## Dependencies
